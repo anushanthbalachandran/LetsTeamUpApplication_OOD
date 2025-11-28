@@ -1,0 +1,3 @@
+TeamID,TeamName,TeamSize,MemberID,MemberName,Age,Email,PersonalityType,PersonalityScore,PreferredGame,Role,SkillLevel
+T1,Team T1,2,P001,Alice,20,alice@test.com,Leader,95,Valorant,Strategist,8
+T1,Team T1,2,P002,Bob,21,bob@test.com,Balanced,75,FIFA,Defender,7

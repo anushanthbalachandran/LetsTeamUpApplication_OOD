@@ -1,0 +1,21 @@
+id,name,age,email,personalityScore,interests,preferredRole,skillLevel
+P001,Alice Johnson,20,alice.j@university.edu,95,Valorant;Dota,Strategist,8
+P002,Bob Smith,21,bob.smith@university.edu,72,FIFA;Basketball,Defender,7
+P003,Charlie Brown,19,charlie.b@university.edu,88,Dota;Valorant,Attacker,9
+P004,Diana Prince,22,diana.p@university.edu,55,Basketball;Badminton,Support,6
+P005,Eve Adams,20,eve.adams@university.edu,91,Valorant;FIFA,Leader,8
+P006,Frank Miller,21,frank.m@university.edu,68,Badminton;Basketball,Defender,5
+P007,Grace Lee,19,grace.lee@university.edu,78,Dota;FIFA,Strategist,7
+P008,Henry Wilson,22,henry.w@university.edu,93,Valorant;Basketball,Attacker,9
+P009,Iris Chen,20,iris.chen@university.edu,64,FIFA;Badminton,Support,6
+P010,Jack Taylor,21,jack.t@university.edu,85,Dota;Valorant,Leader,8
+P011,Kate Moore,19,kate.m@university.edu,58,Basketball;FIFA,Defender,5
+P012,Liam Brown,22,liam.b@university.edu,96,Valorant;Dota,Strategist,10
+P013,Mia Davis,20,mia.davis@university.edu,74,Badminton;Basketball,Attacker,7
+P014,Noah Garcia,21,noah.g@university.edu,67,FIFA;Dota,Support,6
+P015,Olivia Martinez,19,olivia.m@university.edu,89,Valorant;Basketball,Leader,8
+P016,Paul Anderson,22,paul.a@university.edu,52,Badminton;FIFA,Defender,5
+P017,Quinn Thomas,20,quinn.t@university.edu,81,Dota;Valorant,Strategist,7
+P018,Ruby Jackson,21,ruby.j@university.edu,94,Basketball;FIFA,Attacker,9
+P019,Sam White,19,sam.white@university.edu,61,Badminton;Dota,Support,6
+P020,Tina Harris,22,tina.h@university.edu,87,Valorant;FIFA,Leader,8
